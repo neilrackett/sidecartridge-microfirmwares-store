@@ -18,8 +18,8 @@
     {
       "uuid": "1805c20c-5b83-4ea1-9264-6fe13da448a0",
       "name": "Multidrive emulator",
-      "description": "All in one Hard disk, Floppy disk and Real Time emulator for Atari ST/STE/MegaST/MegaSTE.  <a target='_blank' href='https://docs.sidecartridge.com/sidecartridge-multidevice/microfirmwares/drives_emulator/'>Learn more</a>",
-      "image": "https://raw.githubusercontent.com/sidecartridge/md-drives-emulator/refs/heads/main/icon.png",
+      "description": "All in one Hard disk, Floppy disk and Real Time emulator for Atari ST/STE/MegaST/MegaSTE/Falcon.  <a target='_blank' href='https://docs.sidecartridge.com/sidecartridge-multidevice/microfirmwares/drives_emulator/'>Learn more</a>",
+      "image": "https://raw.githubusercontent.com/sidecartridge/md-drives-emulator/main/icon.png",
       "tags": [
         "HD",
         "GEMDRIVE",
@@ -30,12 +30,18 @@
         "ST",
         "STE",
         "MegaST",
-        "MegaSTE"
+        "MegaSTE",
+        "Falcon"
       ],
-      "binary": "https://atarist.sidecartridge.com/1805c20c-5b83-4ea1-9264-6fe13da448a0-v1.1.0.uf2",
-      "md5": "b9126169d02d04a7cf5b43b42034b34e",
-      "version": "v1.1.0",
+      "binary": "https://atarist.sidecartridge.com/1805c20c-5b83-4ea1-9264-6fe13da448a0-v1.2.0.uf2",
+      "md5": "e6299064c5f47e080e113659200701d1",
+      "version": "v1.2.0",
       "previous_versions": [
+        {
+          "version": "v1.1.0",
+          "binary": "https://atarist.sidecartridge.com/1805c20c-5b83-4ea1-9264-6fe13da448a0-v1.1.0.uf2",
+          "md5": "b9126169d02d04a7cf5b43b42034b34e"
+        },
         {
           "version": "v1.0.6beta",
           "binary": "https://atarist.sidecartridge.com/1805c20c-5b83-4ea1-9264-6fe13da448a0-v1.0.6beta.uf2",
