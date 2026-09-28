@@ -12,6 +12,12 @@
       "name": "Neil Rackett",
       "url": "https://neilrackett.com",
       "official": false
+    },
+    "galvanoid": {
+      "id": "galvanoid",
+      "name": "Galvanoid",
+      "url": "https://github.com/galvanoid",
+      "official": false
     }
   },
   "apps": [
@@ -166,6 +172,32 @@
       ],
       "official": true,
       "creator": "sidecartridge"
+    },
+    {
+      "uuid": "e6bac565-427c-48ff-a24f-4047b788fa51",
+      "name": "STNext Office + Network (Beta)",
+      "description": "Beta / work in progress. Only Email, ChatGPT, SSH Terminal and Calculator are currently functional; other Office apps are placeholders.",
+      "image": "",
+      "tags": [
+        "Beta",
+        "Work in progress",
+        "GEMDRIVE",
+        "Email",
+        "ChatGPT",
+        "SSH"
+      ],
+      "devices": [
+        "ST",
+        "STE",
+        "MegaST",
+        "MegaSTE"
+      ],
+      "binary": "https://github.com/galvanoid/sidecartridge/releases/download/stnext-0.6.17-beta/STNEXT-SC.uf2",
+      "md5": "5f3274aacd9883729df4a70a1ec327e0",
+      "version": "0.6.17-stnext-beta",
+      "previous_versions": [],
+      "official": false,
+      "creator": "galvanoid"
     }
   ]
 }
