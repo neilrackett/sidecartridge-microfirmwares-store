@@ -210,6 +210,28 @@
       "creator": "sidecartridge"
     },
     {
+      "uuid": "7c5f4899-ce5f-4ee2-92c1-3700d2d55594",
+      "name": "Dragon's Lair",
+      "description": "1983: a laserdisc, Don Bluth's hand-drawn cartoon and two quarters a go. Now Dirk the Daring braves the dragon's lair to rescue Princess Daphne on your Atari ST, STE, Mega ST or Mega STE, sound and all, from your own Dragon's Lair CD-ROM. <a target='_blank' href='https://docs.sidecartridge.com/sidecartridge-multidevice/microfirmwares/dragons-lair/'>Learn more</a>",
+      "image": "https://raw.githubusercontent.com/sidecartridge/md-dragons-lair/main/icon.png",
+      "tags": [
+        "Game",
+        "Laserdisc"
+      ],
+      "devices": [
+        "ST",
+        "STE",
+        "MegaST",
+        "MegaSTE"
+      ],
+      "binary": "https://atarist.sidecartridge.com/7c5f4899-ce5f-4ee2-92c1-3700d2d55594-v1.0.0.uf2",
+      "md5": "e16abe16c693936af495c8b200ba53a0",
+      "version": "v1.0.0",
+      "previous_versions": [],
+      "official": true,
+      "creator": "sidecartridge"
+    },
+    {
       "uuid": "b04ccd04-9b5d-4f6b-abd1-43af82c3b43a",
       "name": "MV16 Emulator",
       "description": "Emulates the MV16 audio device for Atari ST computers and outputs audio through Bluetooth audio streams. <a target='_blank' href='https://docs.sidecartridge.com/sidecartridge-multidevice/microfirmwares/mv16-emulator/'>Learn more</a>",
